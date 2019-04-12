@@ -79,38 +79,6 @@
     {
       "id": "jeweler",
       "name": "Jeweler"
-    },
-    {
-      "id": "kindergarden-teacher",
-      "name": "Kindergarten Teacher"
-    },
-    {
-      "id": "kitchen-assistant",
-      "name": "Kitchen Assistant"
-    },
-    {
-      "id": "legal",
-      "name": "Legal"
-    },
-    {
-      "id": "laboratory",
-      "name": "Laboratory"
-    },
-    {
-      "id": "marketing",
-      "name": "Marketing"
-    },
-    {
-      "id": "medical-assistant",
-      "name": "Medical Assistant"
-    },
-    {
-      "id": "network-engineer",
-      "name": "Network Engineer"
-    },
-    {
-      "id": "nursing",
-      "name": "Nursing"
     }
   ]
 }
