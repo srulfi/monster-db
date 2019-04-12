@@ -119,42 +119,6 @@
     {
       "id": "office-manager",
       "name": "Office Manager"
-    },
-    {
-      "id": "programmer",
-      "name": "Programmer"
-    },
-    {
-      "id": "paralegal",
-      "name": "Paralegal"
-    },
-    {
-      "id": "quality-assurance-engineer",
-      "name": "Quality Assurance Engineer"
-    },
-    {
-      "id": "receptionist",
-      "name": "Receptionist"
-    },
-    {
-      "id": "retail",
-      "name": "Retail"
-    },
-    {
-      "id": "sales",
-      "name": "Sales"
-    },
-    {
-      "id": "software-engineer",
-      "name": "Software Engineer"
-    },
-    {
-      "id": "teacher",
-      "name": "Teacher"
-    },
-    {
-      "id": "trainer",
-      "name": "Trainer"
     }
   ]
 }
