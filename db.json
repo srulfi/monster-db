@@ -111,14 +111,6 @@
     {
       "id": "nursing",
       "name": "Nursing"
-    },
-    {
-      "id": "operations",
-      "name": "Operations"
-    },
-    {
-      "id": "office-manager",
-      "name": "Office Manager"
     }
   ]
 }
