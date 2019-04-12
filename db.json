@@ -80,5 +80,87 @@
       "id": "jeweler",
       "name": "Jeweler"
     }
+  ],
+  "locations": [
+    {
+      "id": "abbeville",
+      "name": "Abbeville"
+    },
+    {
+      "id": "aberdeen",
+      "name": "Aberdeen"
+    },
+    {
+      "id": "abilene",
+      "name": "Abilene"
+    },
+    {
+      "id": "abingdon",
+      "name": "Abingdon"
+    },
+    {
+      "id": "abington",
+      "name": "Abington"
+    },
+    {
+      "id": "absecon",
+      "name": "Absecon"
+    },
+    {
+      "id": "accokeek",
+      "name": "Accokeek"
+    },
+    {
+      "id": "acton",
+      "name": "Acton"
+    },
+    {
+      "id": "acushnet",
+      "name": "Acushnet"
+    },
+    {
+      "id": "acworth",
+      "name": "Acworth"
+    },
+    {
+      "id": "ada",
+      "name": "Ada"
+    },
+    {
+      "id": "adams",
+      "name": "Adams"
+    },
+    {
+      "id": "addison",
+      "name": "Addison"
+    },
+    {
+      "id": "adelanto",
+      "name": "Adelanto"
+    },
+    {
+      "id": "adelphi",
+      "name": "Adelphi"
+    },
+    {
+      "id": "adrian",
+      "name": "Adrian"
+    },
+    {
+      "id": "affton",
+      "name": "Affton"
+    },
+    {
+      "id": "agawam",
+      "name": "Agawam"
+    },
+    {
+      "id": "agoura hills",
+      "name": "Agoura Hills"
+    },
+    {
+      "id": "ahuimanu",
+      "name": "Ahuimanu"
+    }
   ]
 }
